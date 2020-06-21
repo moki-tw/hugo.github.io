@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>個人文章 on Hugo Zzo Theme</title>
+    <link>https://distracted-hodgkin-432277.netlify.app/zh/categories/%E5%80%8B%E4%BA%BA%E6%96%87%E7%AB%A0/</link>
+    <description>Recent content in 個人文章 on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://distracted-hodgkin-432277.netlify.app/zh/categories/%E5%80%8B%E4%BA%BA%E6%96%87%E7%AB%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>第2篇文章</title>
+        <link>https://distracted-hodgkin-432277.netlify.app/first-post-2/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>https://distracted-hodgkin-432277.netlify.app/first-post-2/</guid>
+        <description>第一篇文章 太棒了 1 2 3 4 5 6 7 8 &amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt; Neat</description>
+        
+        <dc:creator>MIMI</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>一篇文章</category>
+            
+          
+            
+              <category>部落格</category>
+            
+          
+        
+        
+          
+            
+              <category>個人文章</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>第2篇文章</title>
+        <link>https://distracted-hodgkin-432277.netlify.app/first-post-3/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>https://distracted-hodgkin-432277.netlify.app/first-post-3/</guid>
+        <description>第一篇文章 太棒了 1 2 3 4 5 6 7 8 &amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt; Neat</description>
+        
+        <dc:creator>MIMI</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>一篇文章</category>
+            
+          
+            
+              <category>部落格</category>
+            
+          
+        
+        
+          
+            
+              <category>個人文章</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>第一篇文章</title>
+        <link>https://distracted-hodgkin-432277.netlify.app/first-post/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>https://distracted-hodgkin-432277.netlify.app/first-post/</guid>
+        <description>第一篇文章 太棒了 1 2 3 4 5 6 7 8 &amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt; Neat</description>
+        
+        <dc:creator>MIMI</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>一篇文章</category>
+            
+          
+            
+              <category>部落格</category>
+            
+          
+        
+        
+          
+            
+              <category>個人文章</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
