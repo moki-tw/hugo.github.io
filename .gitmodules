@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/moki-tw/hugo.github.io.git
+	branch = master
